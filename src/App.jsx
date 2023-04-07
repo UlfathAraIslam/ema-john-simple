@@ -10,6 +10,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>route</h1>
       <Header></Header>
       <Shop></Shop>
       
